@@ -4,8 +4,8 @@
   "description": "",
   "main": "src/server.ts",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4"
+    "body-parser": "^1.20.4",
+    "express": "^4.22.0"
   },
   "devDependencies": {
     "tslint": "^5.11.0",
